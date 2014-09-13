@@ -1,0 +1,26 @@
+{
+  "name": "stripe-webhook-middleware",
+  "version": "0.0.1",
+  "description": "Middleware for processing stripe webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stripe",
+    "payment",
+    "middleware",
+    "express",
+    "connect"
+  ],
+  "author": "Eddy Hernandez <edward.d.hernandez@gmail.com> (http://eddywashere.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddywashere/stripe-webhook-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eddywashere/stripe-webhook-middleware/issues"
+  },
+  "homepage": "https://github.com/eddywashere/stripe-webhook-middleware"
+}
