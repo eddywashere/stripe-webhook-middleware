@@ -1,7 +1,7 @@
 {
   "name": "stripe-webhook-middleware",
-  "version": "0.0.1",
-  "description": "Middleware for processing stripe webhooks",
+  "version": "0.1.0",
+  "description": "Node.js middleware for processing stripe webhooks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/eddywashere/stripe-webhook-middleware/issues"
   },
-  "homepage": "https://github.com/eddywashere/stripe-webhook-middleware"
+  "homepage": "https://github.com/eddywashere/stripe-webhook-middleware",
+  "dependencies": {
+    "stripe": "^2.8.0"
+  }
 }
