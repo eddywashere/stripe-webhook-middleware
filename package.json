@@ -1,6 +1,6 @@
 {
   "name": "stripe-webhook-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js middleware for processing stripe webhooks",
   "main": "index.js",
   "scripts": {
