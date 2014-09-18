@@ -2,7 +2,7 @@
 
 Node.js middleware for processing stripe webhooks. Inspired by: [http://gaarf.info/2013/06/25/securing-stripe-webhooks-with-node-js/](securing stripe webhooks with nodejs) & [https://github.com/ruffrey/stripe-webhook-server](stripe-webhook-server).
 
-Currently this middleware only logs and returns a 200 status when an event is found.
+Currently this middleware only validates events that are sent to it.
 
 Upcoming features include transactional emails, custom templates and support for callbacks (ex: looking up user info by customer data).
 
