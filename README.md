@@ -1,6 +1,6 @@
 # Stripe Webhook Middleware
 
-Node.js middleware for processing stripe webhooks. Inspired by: [http://gaarf.info/2013/06/25/securing-stripe-webhooks-with-node-js/](securing stripe webhooks with nodejs) & [https://github.com/ruffrey/stripe-webhook-server](stripe-webhook-server).
+Node.js middleware for processing stripe webhooks. Inspired by: [securing stripe webhooks with nodejs](http://gaarf.info/2013/06/25/securing-stripe-webhooks-with-node-js/) & [stripe-webhook-server](https://github.com/ruffrey/stripe-webhook-server).
 
 Currently this middleware only validates events that are sent to it.
 
