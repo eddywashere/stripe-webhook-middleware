@@ -1,6 +1,6 @@
 {
   "name": "stripe-webhook-middleware",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Node.js middleware for processing stripe webhooks",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/eddywashere/stripe-webhook-middleware",
   "dependencies": {
-    "stripe": "^2.8.0"
+    "stripe": "^3.9.0"
   }
 }
